@@ -9,7 +9,7 @@ This is a demo react application with a small server to perform fetch requests t
 - install project dependencies
 
 ```
-npm install
+npm install-all
 ```
 
 - start client and server
